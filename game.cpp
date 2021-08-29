@@ -386,7 +386,7 @@ void Game::reset(){
     _blocks.clear();
     _activeBlocks.clear();
     _score = 0;
-    _level = 0;
+    _level = 1;
     _buffer = 1000;
     _tick = 0;
     _gameOver = false;
