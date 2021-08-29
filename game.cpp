@@ -525,7 +525,6 @@ void Block::setCoords(int x, int y){
 }
 
 int main() {
-    beep();
     TheGame::Game g;
     return 1;
 }
