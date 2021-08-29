@@ -14,14 +14,6 @@
 
 using namespace TheGame;
 
-/*
-TODO: 
-
-- show shape landing position on stack
-- levels
-
-*/
-
 WINDOW *_win;
 WINDOW *_textbox;
 WINDOW *_header;
